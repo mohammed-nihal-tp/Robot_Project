@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int b=80;
+	int b=100;
 
 	cout << "Robot is Moving" << endl;
 	cout << "Robot Stopped" << endl;
