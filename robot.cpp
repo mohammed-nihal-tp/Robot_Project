@@ -9,7 +9,7 @@ int main()
 	cout << "Robot Stopped" << endl;
 	cout << "Robot is Turning Right" << endl;
 	cout << "Robot is Turning Left" << endl;
-
+	cout << "Robot Stopped" << endl;
 	cout << "Battery = " << b << "%" << endl;
 
 	return 0;
