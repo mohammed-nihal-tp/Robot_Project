@@ -11,6 +11,7 @@ int main()
 	cout << "Robot is Turning Left" << endl;
 	cout << "Robot Stopped" << endl;
 	cout << "Battery = " << b << "%" << endl;
+	cout << "Lidar Sensor Added" << endl;
 
 	return 0;
 }
