@@ -2,7 +2,6 @@
 ## SENSORS
 ### Ultrasonic Sensor
 ### IR Sensor
-### Lidar Sensor
 ### Sensor
 ### Motion Sensor
-
+### Lidar
